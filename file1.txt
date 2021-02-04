@@ -1,2 +1,3 @@
 THIS IS CHAPTER ONE.
 new-plot-1 applied.
+Panda added a new plot.
